@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/java web 课程资料课工场/1464327353435110/5.提供的素材/news/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.0-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/gnujaxp-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/jfreechart-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
